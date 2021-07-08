@@ -11,9 +11,11 @@ section{
     background-color: #fff;
     margin: 15px 100px;
     padding: 20px 30px;
+    border-radius: 20px;
 }
 
 h1, h2{
+    text-align: center;
     text-transform: uppercase;
     margin: 20px 0;
 }
