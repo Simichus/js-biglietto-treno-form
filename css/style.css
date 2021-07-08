@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: maroon;
+}
+section{
+    background-color: #fff;
+    margin: 15px 100px;
+    padding: 20px 30px;
+}
+
+h1, h2{
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.hidden{
+    visibility: hidden;
+}
